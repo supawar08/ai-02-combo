@@ -1,0 +1,8 @@
+Que 1.
+The delivery_time.csv dataset contains information about Delivery time and Sorting Time. We have to prepare linear regression and polynimial regression model to predict Sorting time on the basis of Delivery Time. Also evaluate the model by using evaluation metrics.
+
+Que 2.
+The Newspaperdata.csv dataset contains information of nwespapers with their daily sales and sunday sales. We have to predict sunday sales of newspaper on the basis of daily sales of newspaper. For that build linear regression and polynomial regression models and evaluate the model by using evaluation metrics.
+
+Que 3.
+The SAT-GPA dataset contains information of SAT and GPA scores. We have to predict GPA score on the basis of SAT score by using Linear Regression and Polynomial Regression model. Also evaluate the model by using evaluation metrics.

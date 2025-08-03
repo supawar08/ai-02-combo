@@ -1,0 +1,73 @@
+1. i) Create a list of empids and names (10 employees).
+   ii) Convert list into Series.
+   iii) Convert Series into DataFrame.
+   iv) a) Display all records.
+      b) Display first five records.
+      c) Display last five records.
+   v) Save the record in csv file (MyRecord.csv)
+
+2. Refer the dataset "Advertising.csv" and perform following tasks.
+i) Read the dataset "Advertising.csv" in data frame.
+
+ii) Print first five records of dataset.
+
+iii) print last five records from dataset.
+
+iv) display the column names of the dataset.
+
+v) display last three records from dataset.
+
+vi) display the information about the dataset.
+
+vii) display data types of each columns.
+ 
+viii) check for null values in the dataset and display the sum of null values inside the column.
+
+ix) drop all null values.
+
+x) drop a column 'radio' from a dataset and display first ten records.
+
+xi) increase the sales by 10% and add a new column "updated_sales" in dataframe.
+
+xii) display shape of data.
+
+3. Refer the dataset "Salaries.csv" and perform following tasks.
+i) Read the dataset in dataframe.
+
+ii) display first five records.
+
+iii) display first ten records.
+
+iv) display last five records.
+
+v) display last ten records.
+
+vi) display the columns inside the dataset.
+
+vii) display shape of data.
+
+viii) describe the dataset.
+
+ix) display the information about the dataset and analyse the data.
+
+x) display types of each columns.
+
+xi) Find out maximum,minimum,mean,median,standard deviation value of each column.
+
+xii) check for null values in the dataset and display the sum of null values inside the column.
+
+xiii) Replace all null values by mean or mode acoording to the type of column.
+
+4. Consider each of following datasets and do below operations.
+i) Read the dataset.
+ii) Display first 5 and last 5 records. 
+iii) Display info and describe the dataset.
+iv) Find out null values.
+v) Fill the null values according to their data type.
+Vi) Convert catrgorical columns into numerical columns if present.
+
+datasets:
+i)   Claimants.csv
+ii)  Framingham.csv
+iii) Iris.csv
+iv) Churn.csv

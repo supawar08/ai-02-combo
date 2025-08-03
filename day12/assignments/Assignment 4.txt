@@ -1,0 +1,75 @@
+Que1.-
+In this dataset you have to predict that whether we have to give ATTORNEY to the clients or not (0=Yes, 1=No) based on below factors.
+CLMAGE - Age of Client
+CLMSEX - Sex of client (0=Male, 1= Female)
+SEATBELT - Whether client has Seatbelt or not (0=Yes, 1=No)
+CLMINSUR - Whether Client give Insurance or not (0=Yes, 1=No)
+LOSS - Loss that client faced
+
+Prepare model by using Naive Bayes,KNN and SVM & Also calculate Accuracy by confusion matrix, Calculate accuracy score, precision score, recall score, f1 score.
+
+Dataset : Claimants.csv
+
+Que2.-
+
+The model's main purpose is to predict the 10-year risk of Coronary Heart Disease (CHD). CHD is a disease of the blood vessels supplying the heart. Heart disease has been the leading cause of death worldwide since 1921. In 2008, 7.3 million people died from CHD. 
+The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
+Variables
+Sex: male or female(0=female, 1=male)
+Age: Age of the patient
+education: Some high school (1), high school/GED (2), some college/vocational school (3), college (4)
+Current Smoker: whether or not the patient is a current smoker (0=No, 1=Yes)
+Cigs Per Day: the number of cigarettes that the person smoked on average in one day
+BP Meds: whether or not the patient was on blood pressure medication 
+Prevalent Stroke: whether or not the patient had previously had a stroke (0=No, 1=Yes)
+Prevalent Hyp: whether or not the patient was hypertensive (0=No, 1=Yes)
+Diabetes: whether or not the patient had diabetes (0=No, 1=Yes)
+Tot Chol: total cholesterol level
+Sys BP: systolic blood pressure 
+Dia BP: diastolic blood pressure
+BMI: Body Mass Index
+Heart Rate: heart rate
+Glucose: glucose level
+
+Prepare model by using logistic regression KNN, SVM and Naive Bayes.
+
+Also calculate Accuracy by confusion matrix, Calculate accuracy score, precision score, recall score, f1 score.
+
+Datasets : framingham.csv
+
+Que.3 -
+
+Prepare a model for glass classification using KNN, SVM and Naive Bayes.
+Also calculate Accuracy by confusion matrix, Calculate accuracy score, precision score, recall score, f1 score.
+Data Description:
+RI : refractive index
+Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
+Mg: Magnesium
+AI: Aluminum
+Si: Silicon
+K:Potassium
+Ca: Calcium
+Ba: Barium
+Fe: Iron
+Type: Type of glass: (class attribute)
+1 -- building_windows_float_processed
+ 2 --building_windows_non_float_processed
+ 3 --vehicle_windows_float_processed
+ 4 --vehicle_windows_non_float_processed (none in this database)
+ 5 --containers
+ 6 --tableware
+ 7 --headlamps
+
+Dataset : Glass.csv
+
+Que.4 
+
+Implement a KNN,SVM and Naive Bayes model to classify the type of animals in the zoo in to different categories.
+Also calculate Accuracy by confusion matrix, Calculate accuracy score, precision score, recall score, f1 score.
+
+Dataset : Zoo.csv
+
+Que.5
+
+In Churn.csv dataset you have to predict that customer is exited or not based on various factors given in dataset.
+Implement a KNN,SVM and Naive Bayes model and calculate Accuracy by confusion matrix, Calculate accuracy score, precision score, recall score, f1 score.
